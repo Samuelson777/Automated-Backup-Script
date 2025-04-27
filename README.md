@@ -33,3 +33,6 @@ To make the Automated Backup Script even more robust and user-friendly, consider
 
 ## Acknowledgments
 - Thanks to the Python community for their support and resources.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Automated-Backup-Script/blob/main/LICENSE) file for details.
